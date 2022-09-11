@@ -5,4 +5,3 @@ IPython
 numpy
 scipy
 matplotlib
-PyTorch
