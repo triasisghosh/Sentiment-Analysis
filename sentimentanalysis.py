@@ -18,7 +18,7 @@ client_secret='rfOl7o24QRuT4Jexf9K3pap8xVL9PwRPXI9WNUwztopou1H7pJ'
 """Setting the Constants for fetching the API."""
 
 """Installing the requirements"""
-
+import install_requirements
 import tweepy
 from textblob import TextBlob
 import pandas
@@ -28,7 +28,6 @@ import re
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from scipy.special import softmax
 import matplotlib.pyplot as plt
-import install_requirements
 
 """Importing libraries"""
 
