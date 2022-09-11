@@ -1,0 +1,7 @@
+textblob
+transformers
+pandas
+IPython
+numpy
+scipy
+matplotlib
