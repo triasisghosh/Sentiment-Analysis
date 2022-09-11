@@ -17,20 +17,6 @@ client_secret='rfOl7o24QRuT4Jexf9K3pap8xVL9PwRPXI9WNUwztopou1H7pJ'
 
 """Setting the Constants for fetching the API."""
 
-!pip install textblob
-
-!pip install transformers
-
-!pip install pandas
-
-!pip install IPython
-
-!pip install numpy
-
-!pip install scipy
-
-!pip install matplotlib
-
 """Installing the requirements"""
 
 import tweepy
