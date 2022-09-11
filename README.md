@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-To classify tweets as positive negative or neutral
+This project classifies tweets as Positive, Negative or Neutral based on Past Activities of the specific hastag. With virtue of the gathered information, the sentiments wrt the particular hashtag are plotted in a graph v the timestamp. This uses the Roberta model among the trandformers to carry out the NLP task.The pipeline goes like this: first it collects data using the API methods of tweepy, followed by clearing of texts using Regular Expressions, then prepares the labelled dataset classifying as Pos, Neg and Neu using softmax activation in the dense layer. Now plotting the scatter and bar graph of the data, and finally scatter plotting the tweet sentiments over time.
