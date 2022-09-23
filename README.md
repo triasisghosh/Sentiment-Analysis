@@ -21,7 +21,7 @@ Two methods are used for this analysis:
       * ***Negative***
       * ***Neutral***
 
-Weightage of sentiment in individual polarities are assigned and a geenral polarity score is produced ranging from -1 to +1.
+Weightage of sentiment in individual polarities are assigned and a general polarity score is produced ranging from -1 to +1.
    
 **Eg** 
 |  |Tweet 	|  Neg    |	Neu     |	Pos     |	Polarity | 	Opinion|
